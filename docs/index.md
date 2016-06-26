@@ -7,6 +7,7 @@ LivQuik Technology India Pvt Ltd
 
 Mobile:+918762070029
 
+Email: manishchoudhary55@gmail.com
 
 ----------
 
@@ -85,7 +86,7 @@ I have completed B.E. in Computer Science and Engineering from SDMCET Dharwad, o
 
 >  It is a ready to use android library for online/offline payment solution.
 
-**Project URL**: https://bintray.com/androiddev/maven/qwsdkui/
+**Project URL**: [Click Here](https://bintray.com/androiddev/maven/qwsdkui/)
 
 **Technologies Used:** Java, Android , Git, 
 
@@ -110,7 +111,7 @@ I have completed B.E. in Computer Science and Engineering from SDMCET Dharwad, o
 
 > SDK Core is responsible for making REST request and handling related exceptions. It contains POJO and util classes for making REST request. It also handles Marshalling/unmarshalling Java objects. 
 
-**Project URL**: https://bintray.com/androiddev/maven/qwcore
+**Project URL**: [Click Here](https://bintray.com/androiddev/maven/qwcore)
 
 **Technologies Used**: Java, Android , Git, Gradle
 
@@ -133,7 +134,7 @@ I have completed B.E. in Computer Science and Engineering from SDMCET Dharwad, o
 
 **About BSS**: The BSS core manages every business interaction between user and vendor. Vendors are like IBM Bluemix, IBM Watson etc. 
 
-**Project URL** : http://www.ibm.com/cloud-computing/bluemix/
+**Project URL** : [Click Here](http://www.ibm.com/cloud-computing/bluemix/)
 
 **Technologies Used**: Core Java, Java REST, Hibernate, Shell script, Spring MVC, HighDeal
 
@@ -145,11 +146,11 @@ I have completed B.E. in Computer Science and Engineering from SDMCET Dharwad, o
 ###Hobby Projects 
 
  1. Open REST API’s to get bank details using IFSC/MICR code.
-    https://github.com/mangrep/ifsc-rest-api  (Hosted on AWS) 
+    [Github Link](https://github.com/mangrep/ifsc-rest-api)  (Hosted on AWS) 
     
- 2. Singe page web app to seach IFSC code https://github.com/mangrep/IFSC-search-web-app  (Hosted on AWS http://ifsc.techm.co.in ) 
+ 2. Singe page web app to seach IFSC code. [Github Link](https://github.com/mangrep/IFSC-search-web-app)   [Website Link](http://ifsc.techm.co.in) (Hosted on AWS )
  
- 3. Stackoverflow android app using stack exchange apis. https://github.com/mangrep/Stackoverflow
+ 3. Stackoverflow android app using stack exchange apis. [Github link](https://github.com/mangrep/Stackoverflow)
 
 
 ----------
@@ -158,10 +159,10 @@ I have completed B.E. in Computer Science and Engineering from SDMCET Dharwad, o
 
 ###Freelance Projects
 
- 1. Reglious android app with in app purchase feature. https://play.google.com/store/apps/details?id=com.hammutech.muslimsislamicapp
- 2.  Android SDK for Offerwall http://developers.supersonic.com/android/sdk-integration/getting-started-with-supersonic-android-sdk/
- 3.  Yogic app (under development)
-            https://play.google.com/store/apps/details?id=com.yogic.magazine.app
+ 1. Reglious android app with in app purchase feature. [Play Store Link](https://play.google.com/store/apps/details?id=com.hammutech.muslimsislamicapp)
+ 2.  Android SDK for Offerwall. [Docs Link](http://developers.supersonic.com/android/sdk-integration/getting-started-with-supersonic-android-sdk/)
+ 3.  Yogic app (under development) [Play Store Link](https://play.google.com/store/apps/details?id=com.yogic.magazine.app)
+            
 
 
 ----------
@@ -206,7 +207,17 @@ Manish Kumar Choudhary
 
 ----------
 
-                                                         
+###Online Presence
+
+Linkedin :  [Click here](https://www.linkedin.com/in/mangrep)
+
+Github :  [Click Here](https://www.github.com/mangrep)
+
+Freelance :  [Click Here](http://goo.gl/kCJ0NI)
+
+Stackoverflow:  [Click Here](http://stackoverflow.com/users/2340964/manish)
+
+SPOJ:  [Click Here](http://www.spoj.com/users/techmanish/)                                                         
    
 ###References  
 
