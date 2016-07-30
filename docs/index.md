@@ -128,7 +128,7 @@ I have completed B.E. in Computer Science and Engineering from SDMCET Dharwad, o
 **Responsibilities**:
 
 > 	Resolving errors/bugs in the current BSS core code. 
-> 	Implementation of new customer requirement. 	
+> 	Implementation of new customer requirement.
 > Shell script to automate devops work.
 >  Development of bill management using HighDeal (SAP).
 
@@ -162,7 +162,7 @@ I have completed B.E. in Computer Science and Engineering from SDMCET Dharwad, o
 
  1. Android Religious app with in app purchase feature <a href="https://play.google.com/store/apps/details?id=com.hammutech.muslimsislamicapp" target="_blank">Play store link</a> 
  
- 2.  Android SDK for Offerwall. [Docs Link] <a href="http://developers.supersonic.com/android/sdk-integration/getting-started-with-supersonic-android-sdk/" target="_blank">Doc link</a> 
+ 2.  Android SDK for Offerwall. <a href="http://developers.supersonic.com/android/sdk-integration/getting-started-with-supersonic-android-sdk/" target="_blank">Docs link</a> 
  
  3.  Android Yogic app  <a href="https://play.google.com/store/apps/details?id=com.yogic.magazine.app" target="_blank">Play store link</a> 
 
@@ -205,8 +205,8 @@ I have completed B.E. in Computer Science and Engineering from SDMCET Dharwad, o
 I Manish Kumar Choudhary, hereby declare that the information given above is true to the best of my Knowledge and belief. 
 
 Place : Mumbai 
-Date 29-07-2016                                                                      	
-Manish Kumar Choudhary       
+Date 29-07-2016
+Manish Kumar Choudhary
 
 
 ----------
