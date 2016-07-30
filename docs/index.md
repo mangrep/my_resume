@@ -86,7 +86,7 @@ I have completed B.E. in Computer Science and Engineering from SDMCET Dharwad, o
 
 >  It is a ready to use android library for online/offline payment solution.
 
-**Project URL**: [Click Here](https://bintray.com/androiddev/maven/qwsdkui/)
+**Project URL**:   <a href="https://bintray.com/androiddev/maven/qwsdkui/" target="_blank">Click Here</a>
 
 **Technologies Used:** Java, Android , Git, 
 
@@ -111,7 +111,7 @@ I have completed B.E. in Computer Science and Engineering from SDMCET Dharwad, o
 
 > SDK Core is responsible for making REST request and handling related exceptions. It contains POJO and util classes for making REST request. It also handles Marshalling/unmarshalling Java objects. 
 
-**Project URL**: [Click Here](https://bintray.com/androiddev/maven/qwcore)
+**Project URL**:  <a href="https://bintray.com/androiddev/maven/qwcore" target="_blank">Click Here</a>
 
 **Technologies Used**: Java, Android , Git, Gradle
 
@@ -134,7 +134,7 @@ I have completed B.E. in Computer Science and Engineering from SDMCET Dharwad, o
 
 **About BSS**: The BSS core manages every business interaction between user and vendor. Vendors are like IBM Bluemix, IBM Watson etc. 
 
-**Project URL** : [Click Here](http://www.ibm.com/cloud-computing/bluemix/)
+**Project URL** :  <a href="http://www.ibm.com/cloud-computing/bluemix/" target="_blank">Click Here</a>
 
 **Technologies Used**: Core Java, Java REST, Hibernate, Shell script, Spring MVC, HighDeal
 
@@ -145,12 +145,13 @@ I have completed B.E. in Computer Science and Engineering from SDMCET Dharwad, o
 
 ###Hobby Projects 
 
- 1. Open REST API’s to get bank details using IFSC/MICR code.
-    [Github Link](https://github.com/mangrep/ifsc-rest-api)  (Hosted on AWS) 
+ 1. Open Source REST API’s to get bank details using IFSC/MICR code.  <a href="https://github.com/mangrep/ifsc-rest-api" target="_blank">Github link</a>  (Hosted on AWS) 
     
- 2. Singe page web app to seach IFSC code. [Github Link](https://github.com/mangrep/IFSC-search-web-app)   [Website Link](http://ifsc.techm.co.in) (Hosted on AWS )
+ 2. Singe page web app to seach IFSC code.  <a href="https://github.com/mangrep/IFSC-search-web-app" target="_blank">Github link</a> ,    <a href="http://ifsc.techm.co.in" target="_blank">Website Link</a>
  
- 3. Stackoverflow android app using stack exchange apis. [Github link](https://github.com/mangrep/Stackoverflow)
+ 3. Stackoverflow android app using stack exchange apis.   <a href="https://github.com/mangrep/Stackoverflow" target="_blank">Github link</a> 
+ 
+ 4. Android App to get Bank details   <a href="https://play.google.com/store/apps/details?id=in.co.techm.ifsc" target="_blank">Play store link</a> 
 
 
 ----------
@@ -159,9 +160,12 @@ I have completed B.E. in Computer Science and Engineering from SDMCET Dharwad, o
 
 ###Freelance Projects
 
- 1. Reglious android app with in app purchase feature. [Play Store Link](https://play.google.com/store/apps/details?id=com.hammutech.muslimsislamicapp)
- 2.  Android SDK for Offerwall. [Docs Link](http://developers.supersonic.com/android/sdk-integration/getting-started-with-supersonic-android-sdk/)
- 3.  Yogic app (under development) [Play Store Link](https://play.google.com/store/apps/details?id=com.yogic.magazine.app)
+ 1. Android Religious app with in app purchase feature <a href="https://play.google.com/store/apps/details?id=com.hammutech.muslimsislamicapp" target="_blank">Play store link</a> 
+ 
+ 2.  Android SDK for Offerwall. [Docs Link] <a href="http://developers.supersonic.com/android/sdk-integration/getting-started-with-supersonic-android-sdk/" target="_blank">Doc link</a> 
+ 
+ 3.  Android Yogic app  <a href="https://play.google.com/store/apps/details?id=com.yogic.magazine.app" target="_blank">Play store link</a> 
+
             
 
 
@@ -201,7 +205,7 @@ I have completed B.E. in Computer Science and Engineering from SDMCET Dharwad, o
 I Manish Kumar Choudhary, hereby declare that the information given above is true to the best of my Knowledge and belief. 
 
 Place : Mumbai 
-Date 26-06-2016                                                                      	
+Date 29-07-2016                                                                      	
 Manish Kumar Choudhary       
 
 
@@ -209,15 +213,17 @@ Manish Kumar Choudhary
 
 ###Online Presence
 
-Linkedin :  [Click here](https://www.linkedin.com/in/mangrep)
+Linkedin : <a href="https://www.linkedin.com/in/mangrep" target="_blank">Click here</a>
 
-Github :  [Click Here](https://www.github.com/mangrep)
+Github :  <a href="https://www.github.com/mangrep" target="_blank">Click here</a>
 
-Freelance :  [Click Here](http://goo.gl/kCJ0NI)
+Freelance : <a href="http://goo.gl/kCJ0NI" target="_blank">Click here</a>
 
-Stackoverflow:  [Click Here](http://stackoverflow.com/users/2340964/manish)
+Stackoverflow:  <a href="http://stackoverflow.com/users/2340964/manish" target="_blank">Click here</a>
 
-SPOJ:  [Click Here](http://www.spoj.com/users/techmanish/)                                                         
+SPOJ:  <a href="http://www.spoj.com/users/techmanish/" target="_blank">Click here</a>  
+
+Quora: <a href="https://www.quora.com/profile/Manish-Kumar-228" target="_blank">Click here</a>                                                       
    
 ###References  
 
