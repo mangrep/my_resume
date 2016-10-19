@@ -12,13 +12,14 @@ Email: manishchoudhary55@gmail.com
 ----------
 
                                                          
-###Professional Goal
+###About
 
-To stay updated with new technologies and use it to solve real world problems and see the impact on people life.
+Two years of exceptional track record building applications, tools and software development kit for mobile and web applications at Livquik and Persistent systems.
+
+Hands-on approach and execution through all stages of product cycle from idea inception/incubation, vision development, prototyping, architecture definition and design, implementation, shipping and presenting to customers.
 
 
 ----------
-
                                                          
 
 ###Scholastics
@@ -33,12 +34,13 @@ I have completed B.E. in Computer Science and Engineering from SDMCET Dharwad, o
 
 
 ----------
-
                                                          
 
 ###Software Exposure 
 
-**Programming Language** : Java, C
+**Primary Programming Language** : Java
+
+**Other languages worked on**: C, Javascript, Coffeescript, Python, C, C++, Kotlin 
 
 **Scripting Language**: Bash Script
 
@@ -64,14 +66,29 @@ I have completed B.E. in Computer Science and Engineering from SDMCET Dharwad, o
 
 
 ----------
-
-                                                         
-
-
-
+                                                        
 ###Projects
 
-**Project Name**: QuikWallet SDK (Aug 2015 - Current) at LivQuik Technologies Limited
+**Project Name**: Quikwallet Network SDK for Yes Bank and Kotak Bank (Jan 2016 - Current) at LivQuik Technologies Ltd
+
+**Role** :
+>Android Developer
+
+**Responsibilities**:
+  > Development from inception.
+  
+  > Maintenance
+  
+**About QuikWallet SDK** 
+>This android library opens quikwallet merchant base for banks. Users of bank app can pay to any of the quikwallet merchant.
+
+**Project URL**:   <a href="https://play.google.com/store/apps/details?id=com.YesBank" target="_blank">Click Here</a>
+
+**Technologies Used**:  Java, Android , Git
+
+----------
+
+**Project Name**: QuikWallet SDK (Aug 2015 - Dec-2015) at LivQuik Technologies Limited
 
 **Role** : 
 
@@ -79,8 +96,9 @@ I have completed B.E. in Computer Science and Engineering from SDMCET Dharwad, o
 
 **Responsibilities**:
 
->  QuikWallet SDK development using MVP architecture. Implementation
-> from scratch.
+>Development from inception.
+
+>Maintenance 
 
 **About QuikWallet SDK:**
 
@@ -103,9 +121,11 @@ I have completed B.E. in Computer Science and Engineering from SDMCET Dharwad, o
 **Responsibilities**:
 	
 
-> QuikWallet SDK core development using microkernel architecture. 
-> Design decisions like identifying different sub system and their implementation. 
-> Android app changes with new core.
+>Development from inception.
+
+>Integrating it in all relevant products like App, SDKs etc 
+
+>Maintenance 
 
 **About SDK core**: 
 
@@ -128,8 +148,11 @@ I have completed B.E. in Computer Science and Engineering from SDMCET Dharwad, o
 **Responsibilities**:
 
 > 	Resolving errors/bugs in the current BSS core code. 
+
 > 	Implementation of new customer requirement.
+
 > Shell script to automate devops work.
+
 >  Development of bill management using HighDeal (SAP).
 
 **About BSS**: The BSS core manages every business interaction between user and vendor. Vendors are like IBM Bluemix, IBM Watson etc. 
@@ -140,10 +163,9 @@ I have completed B.E. in Computer Science and Engineering from SDMCET Dharwad, o
 
 
 ----------
-
                                                          
 
-###Hobby Projects 
+###Personal Projects 
 
  1. Open Source REST API’s to get bank details using IFSC/MICR code.  <a href="https://github.com/mangrep/ifsc-rest-api" target="_blank">Github link</a>  (Hosted on AWS) 
     
@@ -155,7 +177,6 @@ I have completed B.E. in Computer Science and Engineering from SDMCET Dharwad, o
 
 
 ----------
-
                                                          
 
 ###Freelance Projects
@@ -170,7 +191,6 @@ I have completed B.E. in Computer Science and Engineering from SDMCET Dharwad, o
 
 
 ----------
-
                                                          
 
 
@@ -184,32 +204,31 @@ I have completed B.E. in Computer Science and Engineering from SDMCET Dharwad, o
 
 
 ----------
-
                                                          
 
 ###Personal Dossier 
 
 | Name           | Manish Kumar Choudhary     |
 |----------------|----------------------------|
-| Father's’ Name | Late Uma Shankar Choudhary |
-| Mother’s Name  | Smt Pawan Devi             |
+| Father's Name | Late Uma Shankar Choudhary |
+| Mother's Name  | Smt Pawan Devi             |
 | Date of Birth  | 09-Feb-1991                |
 | Hobbies        | News reading/ Freelancing  |
 
 
 ----------
-
                                                          
 
 ###Declaration 
 I Manish Kumar Choudhary, hereby declare that the information given above is true to the best of my Knowledge and belief. 
 
 Place : Mumbai 
-Date 29-07-2016
+Date 02-10-2016
 Manish Kumar Choudhary
 
 
 ----------
+
 
 ###Online Presence
 
@@ -224,6 +243,8 @@ Stackoverflow:  <a href="http://stackoverflow.com/users/2340964/manish" target="
 SPOJ:  <a href="http://www.spoj.com/users/techmanish/" target="_blank">Click here</a>  
 
 Quora: <a href="https://www.quora.com/profile/Manish-Kumar-228" target="_blank">Click here</a>                                                       
+   
+   ----------
    
 ###References  
 
